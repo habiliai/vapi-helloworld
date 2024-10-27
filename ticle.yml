@@ -1,0 +1,4 @@
+name: helloworld
+version: "0.1.0"
+dependencies:
+  sns: "1.2.0"
